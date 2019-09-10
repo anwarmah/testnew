@@ -27,5 +27,4 @@
         <url>http://101.53.136.204:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
-  
 </project>
