@@ -1,3 +1,4 @@
+@Library('pipeline-library-demo')_
 def my_ref_method(String name = 'human') {
   echo "Hello, ${name}."
   echo "Hello, ${name}."
