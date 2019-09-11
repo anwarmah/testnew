@@ -1,3 +1,7 @@
+def my_ref_method(String name = 'human') {
+  echo "Hello, ${name}."
+  echo "Hello, ${name}."
+}
 node('maven-label') {
    def mvnHome
    stage('Preparation') { 
